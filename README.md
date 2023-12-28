@@ -44,7 +44,7 @@ Upon analyzing the data, several insights emerged:
 - The overall average rating improved to 3.62, indicating enhanced customer satisfaction.
 - Weekends consistently showed higher occupancy rates, suggesting a flat pricing strategy.
 - Other travel platforms contributed 40% of total bookings and revenue, while direct offline booking had a minimal impact at 5%.
-- Luxury room category dominated both revenue and bookings, with Mumbai leading in revenue.
+- The luxury room category dominated both revenue and bookings, with Mumbai leading in revenue.
 
 ## Recommendations
 
@@ -61,4 +61,4 @@ Given the industry dynamics, AtliQ Grands is advised to:
 The Power BI analysis has provided valuable insights into AtliQ Grands Hotel's management, offering optimization avenues and growth strategies. Consistent monitoring of key metrics is crucial for sustained success.
 
 **Live Dashboard:**
-Explore the live dashboard [here](#)
+Explore the live dashboard [https://app.powerbi.com/view?r=eyJrIjoiMWZlYjhkNjMtY2MxMi00ZWQ5LWIxN2QtMjNkY2NlNDJkZjVkIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9](#)
