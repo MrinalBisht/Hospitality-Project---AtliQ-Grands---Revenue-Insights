@@ -60,5 +60,6 @@ Given the industry dynamics, AtliQ Grands is advised to:
 
 The Power BI analysis has provided valuable insights into AtliQ Grands Hotel's management, offering optimization avenues and growth strategies. Consistent monitoring of key metrics is crucial for sustained success.
 
-##Live Dashboard
+## Live Dashboard
+
 Explore the live dashboard http://tinyurl.com/Live-Hospitality-Project
