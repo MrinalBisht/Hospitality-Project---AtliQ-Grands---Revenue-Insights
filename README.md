@@ -1,4 +1,4 @@
-# Hospitality-Analysis-AtliQ-Grand-Revenue-Insights
+# Hospitality_Analysis_AtliQ_Grand_Revenue_Insights
 
 # Project Overview
 
